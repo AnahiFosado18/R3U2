@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="CFDI" Folio="765372" Fecha="2025-05-06T20:34:00" Sello="hPKW/HsVoGPPTtjQ6Wpb83+q074V9dCJgBnd+wO/jbu1LilJPfkJByzHLykPz45GDuHcH7pTVPGfzPLtjeM8LQxuB8KwmC1lDyzFIxmuYwoKVSVG7sBFgN/txVMm8ynxWl5QeZnQ3/xLs/eKaFXVucU0PwXIWWLpseQzFG0RWiCxe9++6FJib+7nigsuwXATktCotEAa3DQ4yZ8shVM3XUpONXBaz1qQNZXXvq7+6FkRJxv2o2xQ8FJ1zuK3+iSHduN79IaTJ4d9qYjRs5zveKqvOu0miIkdtxnc+K6tHDpek1ctjt2pOSuL/a7IWYoJs1KhIVBn9+t0dhb7KzU2GQ==" NoCertificado="00001000000712682757" Certificado="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" SubTotal="27584.00" Moneda="MXN" Total="27584.00" TipoDeComprobante="I" FormaPago="99" MetodoPago="PPD" CondicionesDePago="30 Dias" TipoCambio="1" LugarExpedicion="77569" Exportacion="01">
+  <cfdi:Emisor Rfc="LCA180814KG0" Nombre="LIVEK DEL CARIBE" RegimenFiscal="601" />
+  <cfdi:Receptor UsoCFDI="G01" Rfc="ICX161207GC8" Nombre="INMOBILIARIA CANOPO XTRA" DomicilioFiscalReceptor="11000" RegimenFiscalReceptor="601" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="10151613" ClaveUnidad="H87" Cantidad="3.00" Unidad="Pieza" Descripcion="QUINOA BLANCA 1/1 KG - PENOLI" ValorUnitario="161.0000" Importe="483.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="483" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50171831" ClaveUnidad="H87" Cantidad="6.00" Unidad="Pieza" Descripcion="SALSA PICANTE BOTANA 1/ 0.370 LT - VALENTINA" ValorUnitario="22.0000" Importe="132.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="132" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50171500" ClaveUnidad="H87" Cantidad="3.00" Unidad="Pieza" Descripcion="CANELA EN POLVO 1/0.453 KG - BADIA (5)" ValorUnitario="157.0000" Importe="471.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="471" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50201714" ClaveUnidad="H87" Cantidad="12.00" Unidad="Pieza" Descripcion="COFFEE MATE STICKS 200/4GR - NESTLE (7)" ValorUnitario="181.0000" Importe="2172.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50151500" ClaveUnidad="H87" Cantidad="12.00" Unidad="Pieza" Descripcion="LECHE DE COCO BEBIBLE SIN AZUCAR 1/1 L - A DE COCO" ValorUnitario="39.0000" Importe="468.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="468" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50171800" ClaveUnidad="H87" Cantidad="6.00" Unidad="Pieza" Descripcion="SALSA DE QUESO CHEDDAR 1/3 KG - GREAT PLAINS (6)" ValorUnitario="194.0000" Importe="1164.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1164" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50467007" ClaveUnidad="H87" Cantidad="6.00" Unidad="Pieza" Descripcion="ATUN EN AGUA POUCH 1/1.02 KG - TUNY (6)" ValorUnitario="138.0000" Importe="828.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="828" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50365600" ClaveUnidad="H87" Cantidad="3.00" Unidad="Pieza" Descripcion="PIÑA EN ALMIBAR REBANADA 1/3KG - LA ESPAÑOLA (6)" ValorUnitario="144.0000" Importe="432.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="432" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50365300" ClaveUnidad="H87" Cantidad="3.00" Unidad="Pieza" Descripcion="DURAZNO EN MITADES 1/3 KG - PENOLI (11)" ValorUnitario="144.0000" Importe="432.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="432" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50171800" ClaveUnidad="H87" Cantidad="3.00" Unidad="Pieza" Descripcion="MAYONESA ROOM SERVICE 1/60 PZ - HEINZ (6)" ValorUnitario="1640.0000" Importe="4920.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4920" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50171832" ClaveUnidad="H87" Cantidad="1.00" Unidad="Pieza" Descripcion="SALSA CATSUP PORCION 1/1000 PZ - HEINZ (6)" ValorUnitario="568.0000" Importe="568.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="568" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50193100" ClaveUnidad="H87" Cantidad="1.00" Unidad="Pieza" Descripcion="SAL PORCION 3000/1 GR - ABAL (6)" ValorUnitario="284.0000" Importe="284.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="284" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50131700" ClaveUnidad="XBX" Cantidad="40.00" Unidad="Pieza" Descripcion="LECHE ENTERA CON TAPA 12/1 LT - LALA (6)" ValorUnitario="305.0000" Importe="12200.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50131700" ClaveUnidad="XBX" Cantidad="10.00" Unidad="Pieza" Descripcion="LECHE DESLACTOSADA CON TAPA 12/1 LT - LALA (6)" ValorUnitario="303.0000" Importe="3030.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3030" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.0000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="27584.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="B064F194-19DB-4AE9-94DB-F89A6E193862" FechaTimbrado="2025-05-06T19:34:41" RfcProvCertif="DET080304395" SelloCFD="hPKW/HsVoGPPTtjQ6Wpb83+q074V9dCJgBnd+wO/jbu1LilJPfkJByzHLykPz45GDuHcH7pTVPGfzPLtjeM8LQxuB8KwmC1lDyzFIxmuYwoKVSVG7sBFgN/txVMm8ynxWl5QeZnQ3/xLs/eKaFXVucU0PwXIWWLpseQzFG0RWiCxe9++6FJib+7nigsuwXATktCotEAa3DQ4yZ8shVM3XUpONXBaz1qQNZXXvq7+6FkRJxv2o2xQ8FJ1zuK3+iSHduN79IaTJ4d9qYjRs5zveKqvOu0miIkdtxnc+K6tHDpek1ctjt2pOSuL/a7IWYoJs1KhIVBn9+t0dhb7KzU2GQ==" NoCertificadoSAT="00001000000705359682" SelloSAT="ETANJ1g270uwC8cv5G8s6MCkNShJQgm1wlnSiiRLkSyOzkthC5ePZ+wPyfs3MB393D6Q7/DesWwGnFjEPh3DpLmXGEmGMDOl6Rgg6DA7M/cYjBBe21Ztoz7IMtrDdLTtDAvY+6m6LKkgp1brSwZleQklPakxV8QZvfD48d4pR82q3Ho1KK0kLxDeEYLf2pTQJirst4nMn0UAxaUk0vkYs3sok8cx65wijSE4j247J8T42W6cuc6e5Gj+NfEbwKKLHLE5ksUoAKWP74qVPor0PjDvM4U8agM4KRxq6CNn6ibDYv6NM76Yw315QYO2ojpN63nTFBCN1IxhbfHSWq2g4Q==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
